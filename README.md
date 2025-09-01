@@ -1,12 +1,6 @@
-# React + Vite
+# CP4 Web-dev
+<h2>Projeto da empresa Eco-Trend</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>O Eco Trend é uma aplicação web desenvolvida com React que funciona como uma loja online de produtos sustentáveis. O objetivo é proporcionar aos usuários uma experiência de compra simples, moderna e intuitiva, ao mesmo tempo em que promove produtos ecologicamente responsáveis e éticos.</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p>Link Github Pages: https://williamqbr.github.io/Eco-Trend</p>

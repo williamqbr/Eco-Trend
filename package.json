@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://williamqbr.github.io/cp4",
+  "homepage": "https://williamqbr.github.io/Eco-Trend",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
